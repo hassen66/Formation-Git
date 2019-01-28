@@ -1,12 +1,14 @@
 # Premier Git
 
+ALT+Gr+7 =>``` 
+
 
 ## Formation Git
 
 ``` php
+<?php
 
-    <?php
-    echo "hello";
+echo "hello";
 
-    ?>
+?>
 ``` 
